@@ -68,15 +68,9 @@ namespace ConsoleApp6
             double Total = price + sizeCost;
             Console.WriteLine("your order is:  "+coffee+" "+size +" "+ $"add Milk and Sugar:{SugarMilk}");
             Console.WriteLine("the total:  " + Total);
-
-
-
-
-
-
-
-
-
+            Console.WriteLine("Thank you for ordering " );
+            
+ 
 
         }
     }
